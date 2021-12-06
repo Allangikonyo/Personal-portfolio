@@ -1,0 +1,12 @@
+img {
+  float: left ;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+}
+
+.main {
+    color: blue; 
+}
