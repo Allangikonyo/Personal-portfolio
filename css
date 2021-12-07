@@ -2,11 +2,12 @@ img {
   float: left ;
 }
 
-.sidebar {
-  width: 30%;
-  float: left;
-}
-
+.test-box {
+    border: 2px solid pink;
+    padding: 6px;
+    margin: 20px;
+  }
+    
 .main {
     color: blue; 
 }
