@@ -4,7 +4,7 @@
 ## Description
 The following code represents my own personal portfolio landing page, a webpage built as my first beginner website. The following is the demo user interface of the portfolio landing page. 
 
-![Personal Portfolio](/images/screenshot.jpeg)
+![Personal Portfolio](/images/screenshotpersonal.jpeg)
 
 ## Setup/Installation Requirements
 The landing page has no setup/ installation requirements needed. The landing page can be accessed via any browser. The code is also independent of any app. 
